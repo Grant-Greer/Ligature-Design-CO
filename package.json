@@ -1,0 +1,23 @@
+{
+  "name": "ligature-design-co",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grant-Greer/Ligature-Design-CO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grant-Greer/Ligature-Design-CO/issues"
+  },
+  "homepage": "https://github.com/Grant-Greer/Ligature-Design-CO#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "sass": "^1.51.0"
+  }
+}
